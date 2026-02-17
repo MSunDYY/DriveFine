@@ -8,7 +8,7 @@ VLA for Precise and Robust Driving</h3>
 
 <div align="center">
 
-[Chenxu Dang](https://msundyy.github.io)<sup>1,2,3\*</sup>, Sining Ang<sup>3</sup>, Yongkang Li<sup>1</sup>, Haochen Tian<sup>2</sup>, Jie Wang<sup>2<sup> Guang Li<sup>2</sup>, Hangjun Ye<sup>2</sup>, 
+[Chenxu Dang](https://msundyy.github.io)<sup>1,2,3\*</sup>, Sining Ang<sup>3</sup>, Yongkang Li<sup>1</sup>, Haochen Tian<sup>2</sup>, Jie Wang<sup>2</sup>, Guang Li<sup>2</sup>, Hangjun Ye<sup>2</sup>, 
 
 Jie Ma<sup>1</sup>, Long Chen<sup>2†</sup>, Yan Wang<sup>3†</sup>  
 
